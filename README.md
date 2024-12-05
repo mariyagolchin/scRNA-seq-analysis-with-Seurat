@@ -11,7 +11,6 @@ This repository provides a comprehensive workflow for analyzing single-cell RNA-
 
 # Resources
 - https://www.youtube.com/watch?v=G3Cg7vGpctg
-<br>
 - https://satijalab.org/seurat/articles/pbmc3k_tutorial.html
 
 
