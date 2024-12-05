@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=G3Cg7vGpctg
+https://satijalab.org/seurat/articles/pbmc3k_tutorial.html
+
+
+DATA: https://cf.10xgenomics.com/samples/cell-exp/6.1.0/40k_NSCLC_DTC_3p_HT_nextgem_donor_1/40k_NSCLC_DTC_3p_HT_nextgem_donor_1_count_sample_feature_bc_matrix.h5
+
