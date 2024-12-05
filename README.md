@@ -10,11 +10,9 @@ This repository provides a comprehensive workflow for analyzing single-cell RNA-
 
 
 # Resources
-Single cell RNA-seq analysis using Seurat
-
-https://www.youtube.com/watch?v=G3Cg7vGpctg
+- https://www.youtube.com/watch?v=G3Cg7vGpctg
 <br>
-https://satijalab.org/seurat/articles/pbmc3k_tutorial.html
+- https://satijalab.org/seurat/articles/pbmc3k_tutorial.html
 
 
 # DATA: 
